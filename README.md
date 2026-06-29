@@ -1,4 +1,4 @@
-# Hi, I'm Shahid (RedShakie) 👋
+# Hi, I'm Shaheed (RedShakie) 👋
 
 I'm a developer on a learning journey — building projects that sharpen my skills and document my growth, one program at a time. This portfolio spans everything from games and utilities to APIs and data tools, all written primarily in **Python** and **C**.
 
